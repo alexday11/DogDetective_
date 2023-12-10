@@ -23,13 +23,10 @@ The results of this project are highly satisfactory, with an accuracy rate of 0.
 
 
 
-### **วิธีใช้งาน**
-
-1. ทำการเปิด cmd แล้วเข้าถึงโฟล์เดอร์ที่จะเก็บโปรเจ็ค Ex: cd 'path/to/your/directory'
-2. git clone https://github.com/alexday11/DogDetective.git
-3. cd 'DogDetective'
-4. cd 'pip install -r requirements.txt'
-5. เข้าไปที่โฟลเดอร์ Data ทำการแตกไฟล์ best_model.zip
-6. กลับมาที่ cmd แล้วสามารถเริ่มแอปโดยการใช้คำสั่ง streamlit run app.py
-
+### **How to Use**
+1. Open the command prompt (cmd) and navigate to the folder where you want to store the project. For example, use the following command: cd 'path/to/your/directory'
+2. Clone the project repository by entering the command: git clone https://github.com/alexday11/DogDetective_.git
+3. Move into the project directory: cd 'DogDetective'
+4. Install the required dependencies by running: pip install -r requirements.txt
+5. Return to the command prompt and start the app with the following command: streamlit run app.py
 
